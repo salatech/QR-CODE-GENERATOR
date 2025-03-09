@@ -13,7 +13,7 @@ A modern, responsive QR code generator with advanced styling options and sharing
 - 📁 **File Attachment Support**
   - Attach images, videos, audio, or PDFs
   - Automatic Cloudinary upload
-- 🌈 **Responsive Design**
+- ✨ **Responsive Design**
   - Works on all screen sizes
   - Mobile-friendly interface
 - ✨ **Advanced Features**
