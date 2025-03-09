@@ -71,7 +71,7 @@ const InstructionModal: React.FC<InstructionModalProps> = ({
                 onClick={onClose}
                 className="w-full py-3.5 bg-gradient-to-r from-indigo-600 to-purple-600 text-white font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-indigo-100"
               >
-                Let's Get Started!
+                Let&apos;s Get Started!
               </motion.button>
 
               {/* Social Link */}

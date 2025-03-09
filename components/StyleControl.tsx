@@ -48,7 +48,7 @@ const StyleControls: React.FC<StyleControlsProps> = ({
         <motion.select
           whileFocus={{ scale: 1.02 }}
           value={dotType}
-          onChange={(e) => setDotType(e.target.value as any)}
+          onChange={(e) => setDotType(e.target.value as "rounded" | "dots" | "classy" | "classy-rounded" | "square" | "extra-rounded")}
           className="w-full px-3 py-2 md:px-4 md:py-3 text-sm md:text-base border-2 border-gray-200 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 transition-all"
         >
           <option value="rounded">Rounded</option>
